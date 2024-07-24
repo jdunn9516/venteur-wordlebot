@@ -1,0 +1,84 @@
+.body {
+    display: flex;
+    height: 80vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.box_container_main {
+    display: flex;
+    gap: 16px;
+    flex-direction: column;
+    padding: 20px 0px;
+}
+
+.box_container {
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+
+.box {
+    height: 40px;
+    width: 40px;
+    border: 1px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+}
+
+.w_full {
+    width: 100%;
+}
+
+.flex {
+    display: flex;
+}
+
+.item_center {
+    align-items: center;
+}
+
+.item_end {
+    align-items: flex-end;
+    justify-content: end;
+}
+
+.gap_4 {
+    gap: 16px;
+}
+
+.yellow {
+    background: yellow;
+}
+
+.green {
+    background: green;
+}
+
+.white {
+    background: white;
+}
+
+.error {
+    font-size: 14px;
+    color: red;
+}
+
+.win {
+    font-size: 16px;
+}
+
+.lose {
+    font-size: 16px;
+    color: red;
+}
+
+.MuiOutlinedInput-root {
+    height: 40px !important;
+}
