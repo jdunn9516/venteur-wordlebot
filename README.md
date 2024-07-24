@@ -88,5 +88,4 @@ Renders a set of input fields with dynamic styles and behaviors based on the gam
 # Demo Link
 Please visit this link.
 
-https://wordlebot.netlify.app 
-
+[Live Demo](https://wordlebot-venteur.netlify.app/)
